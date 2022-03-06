@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { HeaderWrapper } from "./styles/Header";
+import { HeaderWrapper } from "./styles/HeaderStyles";
 import Navbar from "./Navbar";
 import MenuButton from "./MenuButton";
 
