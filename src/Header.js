@@ -10,7 +10,6 @@ function Header() {
     setOpen(!open);
   };
 
-
   return (
     <HeaderWrapper>
       <h2>Logo</h2>
