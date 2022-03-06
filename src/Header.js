@@ -10,7 +10,6 @@ function Header() {
     setOpen(!open);
   };
 
-  const [open, setOpen] = useState(false);
 
   return (
     <HeaderWrapper>
